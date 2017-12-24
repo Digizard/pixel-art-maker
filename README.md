@@ -1,16 +1,16 @@
-# Pixel Art Maker Project
+Pixel Art Maker
+===============
 
-## Table of Contents
+This project is for the Udacity Front-End Nanodegree program. The user can draw pixel art upon a grid size of their choice.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
 
-## Instructions
+How to Run
+----------
 
-To get started, open `designs.js` and start building out the app's functionality.
+Open `index.html` in your favorite browser.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Contributing
+How to Use
+----------
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Select a grid size and submit it to apply it. Decide on a color, then click on the grid to apply the color to that square.
